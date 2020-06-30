@@ -1,0 +1,96 @@
+.home{
+    background-image: url("img/hotell.jpg");
+    background-size: cover;
+    background-position: center;
+    height:400px; 
+
+}
+.home-icon{
+    background-color:  #7b8bc7;
+    z-index: -1;
+
+}
+
+.hometext{
+    color: #fff;
+    margin-top: 9rem;
+}
+.rr-text{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.box{
+    width: 300px;
+    height: 335px;
+    padding:10px;
+    background-color: #fff;
+    border: 1px solid #7b8bc7;
+}
+
+.btn-send{
+    color: #fff;
+    background-color:  #7b8bc7;
+    border-radius: 0%;
+    padding: 12px 30px;
+}
+
+.footer-icon{
+    color:  #7b8bc7;
+    
+}
+.footer-form{
+    padding: 0 10px;
+    color:;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color:  #7b8bc7;
+    border-radius: 0%;
+    padding: 12px 30px;
+}
+
+/* Facilities */
+.box2{
+    width: 750px;
+    height: 335px;
+    margin: auto;
+    border: 1px solid #7b8bc7;
+}
+.jumbo-fac{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}   
+/* Reservation */
+.form{
+    width: 4rem;
+    background-color: lightsteelblue;
+    border: none;
+}
+.reservation{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.resClick{
+    margin-left: rem;
+}
+.resButton{
+    width: 5;
+    margin-right: rem;
+    margin-bottom: 2rem;
+}
+.box3{
+    width: 200px;
+    height: 0px;
+    padding:1px;
+    background-color: #7b8bc7;
+    border: 1px solid #7b8bc7;
+    margin: auto;
+}
+.resImage{
+    background-size: cover;
+    background-position: center;
+    height:400px; 
+    width: 1000px;
+}

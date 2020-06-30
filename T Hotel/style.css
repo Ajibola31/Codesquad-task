@@ -1,0 +1,154 @@
+.navbar{
+    background: #55a8ae;
+}
+.ml-auto{
+    margin-right:3rem;
+    font-size: 2rem;
+    padding:7px;
+}
+.ml-auto li{
+    margin:0 3px;
+    color:white!important;
+    font-weight:bold;
+}
+.ml-auto li a{
+    color:white!important;
+}
+
+.carousel-img{
+    width:100%;
+    height:45rem;
+}
+.carousel-caption{
+    margin-bottom: 15rem;
+}
+.carousel-heading{
+    font-size:5rem;
+    font-weight:800;
+}
+.carousel-btn{
+    padding: 1.4rem 2.5rem;
+    font-size:3rem;
+    color:white;
+    font-weight:600;
+    background:#55a8ae;
+    border-radius:5rem;
+}
+.myindicators{
+    padding:1rem;
+    border-radius: 50%;
+}
+.carousel-indicators{
+    margin-bottom: 10rem;
+}
+.rooms-column{
+    width: 90%;
+}
+.rooms-img{
+    width:inherit;
+}
+
+.reservation{
+    font-stretch: 1rem;
+    color: #55a8ae;
+    font-size: 5rem;
+    font-weight:2rem;
+}
+
+.click-reservation{
+    background:#55a8ae;
+    color:#fff;
+    font-size: 1rem;
+    padding: 1rem;
+    border: none;
+    font-weight: 1.5rem;
+}
+
+.abtReservation{
+    font-size: large;
+}
+
+#rooms h1{
+    font-weight: 800;
+    font-size: 3rem;
+    letter-spacing: 5px;
+    color:#55a8ae;
+}
+
+#facilities h3{
+    font-weight: 700;
+    font-size: 4rem;
+    color: #55a8ae;
+}
+#facilities i{
+    font-size: 2rem;
+}
+
+.facilities{
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("img/myhotel.jpg");
+    background-size:cover;
+    background-position:center;
+    padding:15rem 7rem;
+    color:white;
+    margin-top: 1rem;
+}
+.facilities-img{
+    height:10rem!important;
+    width:10rem!important;
+    color:#fff;
+}
+
+
+.testimonial-passport{
+    height:4rem!important;
+    width:4rem!important;
+    border-radius:50%;
+}
+
+.row{
+    font-size: 2rem;
+}
+
+.testimonial-p{
+    width:50rem;
+    margin:auto;
+}
+
+.testimonial h3{
+    color: #55a8ae;
+    font-size: 3rem;
+    font-weight:25px;
+    text-align: center;
+    margin-left: 2rem;
+}
+.jumbotron h6{
+    color: #55a8ae;
+    margin-left: 20rem;
+    font-size: 2rem;
+    font-weight: 20px;
+}
+
+
+.map{
+    width:100%;
+    height: 33rem;
+    margin-right:-2.7rem;
+}
+.form-footer{
+    background-color: #55a8ae;
+    padding:6px;
+}
+.fgallary{
+    background: #55a8ae;
+}
+    
+#gallary{
+    font-size: 1rem;
+    color:#fff;
+}
+
+.address{
+    font-size: 8px;
+    color:white;
+    margin-bottom: 2rem;
+}
