@@ -1,0 +1,14 @@
+.login{
+    background-color: rgb(248, 43, 43);
+    margin-top: 10rem;
+
+}
+
+.cont{
+   padding-bottom: 8rem;
+   border-color: black;
+}
+
+.btt{
+    color: red;
+}
